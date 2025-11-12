@@ -1,0 +1,2 @@
+# DianRobot_FR_Camera
+这个仓库是机器人组关于FR机械臂与Gemini深度相机结合起来一些有趣的进阶实验
